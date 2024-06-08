@@ -14,3 +14,7 @@ Here you can acess the App: https://chinmaya7064.github.io/Todo-List/
 - Edit a Task: Select a task from the list, make the necessary changes, and update.
 - Delete a Task: Choose a task to delete and confirm the deletion.
 
+# Technologies Used:
+- Javascript
+- React
+- Tailwind
